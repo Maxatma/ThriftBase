@@ -1,5 +1,5 @@
 # ThriftBase
-ThriftBase -  contains some abstractions used by [[ThriftConvertor]](https://github.com/Maxatma/ThriftConvertor) and [[ThriftFinder]] (https://github.com/Maxatma/ThriftFinder)
+ThriftBase -  contains some abstractions used by [[ThriftConvertor]](https://github.com/Maxatma/ThriftConvertor) and [[ThriftFinder]](https://github.com/Maxatma/ThriftFinder)
 
 Description: 
 
